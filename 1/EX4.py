@@ -1,0 +1,12 @@
+Na = str(input("Name="))
+Li = str(input("Live in="))
+st = str(input("Study at ="))
+old = int(input("old="))
+ho = str(input("hobby="))
+fa = str(input("Favourite food ="))
+
+print("My name is",Na)
+print("I live in",Li,"I study at",st)
+print("I'm",old,"year old")
+print("My hobby is",ho)
+print("My favourite food is",fa)
